@@ -17,5 +17,7 @@ hello git! hello syguan!
 hello git! hello syguan!
 hello git! hello syguan!
 hello git! hello syguan!hot-fix
+hello git! hello syguan!
+hello git! hello syguan!test-add
 1111111111111111111111111111111
 3333333333333333333333333333333
